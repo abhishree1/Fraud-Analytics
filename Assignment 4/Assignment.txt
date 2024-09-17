@@ -1,0 +1,8 @@
+1. Max 5 members per teamk
+2. Develop a neural autoencoder for detecting fraudulent transactions within a dataset.
+3. The dataset contains 284,807 credit card transactions, of which 492 are fraudulent. 
+4. The dataset contains 30 attributes, including 28 principal components, the time between each transaction and the first transaction in the data set, and the amount paid for each transaction. 
+5. You can consider converting time difference and amount features into log scale for dynamic range compression, 
+6. Your objective includes designing an autoencoder and justifying the choices made for its architecture, and loss function. 
+7. For the evaluation phase, you are required to utilize the prediction score and F1 score to assess the model's performance on the test data.
+8. Repear similar steps to design the fraud detection model using the Variational Autoencoder.

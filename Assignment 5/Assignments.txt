@@ -1,0 +1,6 @@
+1. Max 5 members for each group.
+2. Attached is a Credit card dataset containing credit card transactions.
+3. You can use the label encoding for columns (exc. amount).
+4. Develop a Vational Autoencoder-based synthetic data generation model, as discussed in the class.
+5. Generate 2 Million transactions from the trained model.
+6. Evaluate the performance of the model by plotting the distribution of each of the columns (real vs synthetic), and calculating the metrics as discussed in the class.
